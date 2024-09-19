@@ -6,5 +6,4 @@ import (
 
 func main() {
 	fmt.Println("module2 main")
-
 }
